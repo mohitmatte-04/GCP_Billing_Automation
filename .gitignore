@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output reports (generated files)
+*.xlsx
+*.csv
+
+# Keep the input billing report
+!Billing_report*.csv
+
+# Data folder
+data/
