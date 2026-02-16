@@ -1,7 +1,7 @@
 # GCP Project Configuration
 
 # Your Google Cloud Project ID
-PROJECT_ID = "search-ahmed"
+PROJECT_ID = "YOUR_PROJECT_NAME"
 
 # Look back period in days for Audit Logs
 DAYS_BACK = 30
